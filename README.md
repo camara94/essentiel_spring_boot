@@ -1,3 +1,6 @@
 # Essentiel Spring Boot
 
 Avec Kahina Ioualitene, partez à la découverte du framework Spring et de son module Spring Boot, pour le développement d'applications Java. À l'aide d'exemples pratiques, vous verrez comment injecter des dépendances puis vous lancer dans une application Spring. Vous aborderez le principe d'autoconfiguration et vous apprendrez à utiliser les starters et différents types de contrôleurs. Vous testerez et vous superviserez vos applications avec JUnit et Spring Boot Actuator, avant d'exécuter des beans au démarrage. À la fin de cette formation, vous aurez acquis toutes les bases pour mettre en œuvre Spring Boot.
+
+## Le Noyau de Spring
+![noyau Spring](images/noyau_spring.png)
