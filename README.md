@@ -28,3 +28,10 @@ Avec Kahina Ioualitene, partez à la découverte du framework Spring et de son m
 
 ## La Configuration des Métadonnées en Spring Boot
 ![configuration des métadonnées](images/configuration_metadonnees_spring_boot.png)
+
+## La Configuration avec les Classe Java
+Pour cela, nous utilisons le plus souvent les annotations suivantes:
+1. <code>@Configuration</code>: cette annotion indique à **Spring boot** qu'il s'agit d'une classe de configuration.
+2. <code>@Bean</code>: celle ci indique precède une méthode qui crée des objets Java
+3. <code>@Autowired</code> elle permet de faire les **Injection de dependance** en 
+   ![configuration classe](images/configuration_classe_java.png)
