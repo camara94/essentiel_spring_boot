@@ -44,3 +44,7 @@ Pour cela, nous utilisons le plus souvent les annotations suivantes:
 5. <code>@ComponentScan</code>: qui est utilisée pour indiquer à **Spring Boot** les **packages java** qu'il faut utilisés pour trouver les composants **Spring**
    
 ![annotation spring](images/configurationAvecAnnotationSpring.png)
+
+## Comment créer une Application Spring Boot
+La  façon la plus simple est d'utilisée le site [Spring Initializr](https://start.spring.io)<br>
+![Spring Initializr](images/comment_creer_app_spring_boot.png)
