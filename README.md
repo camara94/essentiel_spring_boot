@@ -35,3 +35,12 @@ Pour cela, nous utilisons le plus souvent les annotations suivantes:
 2. <code>@Bean</code>: celle ci indique precède une méthode qui crée des objets Java
 3. <code>@Autowired</code> elle permet de faire les **Injection de dependance** en 
    ![configuration classe](images/configuration_classe_java.png)
+
+## La Configuration avec les Annotation Spring Boot
+1. <code>@Component</code>: elle marque une classe java en tant que Bean pour les mecanismes d'analyse spring puissent l'ajouter au context de l"application. elle a plusieurs dérivées: **@Repository**, **@Service**, **@Controller**
+2. <code>@Repository</code>: qui est utilisée sur les classes(Interfaces) java qui manipulent ou accèdent directement aux bases de données.
+3. <code>@Service</code>: elle marque une classe java qui effectue des traitements métiers.
+4. <code>@Controller</code>: est utilisée pour indiquer que la classe est un controller **Spring Boot**
+5. <code>@ComponentScan</code>: qui est utilisée pour indiquer à **Spring Boot** les **packages java** qu'il faut utilisés pour trouver les composants **Spring**
+   
+![annotation spring](images/configurationAvecAnnotationSpring.png)
