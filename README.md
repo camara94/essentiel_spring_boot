@@ -67,8 +67,24 @@ Lorqu'on clique sur le bouton **générate** il va enrégistrer le projet dans  
 1. on peut utiliser IDE STS
 2. on peut aussi utiliser IDE Eclise avec le plugin STS
 3. on peut utiliser IDE Intelij ....
-   et  la  procedure est la même que celle qu'on a utilise precedemment avec **Spring Initializr**, quelques capture d'écran pourraient ce propos
+   et  la  procedure est la même que celle qu'on a utilise precedemment avec **Spring Initializr**, quelques captures d'écran pourraient illustrer mon propos
 
 ![create spring projet](images/idecreateprojet1.png)
 ![create spring projet](images/idecreateprojet2.png)
 ![create spring projet](images/idecreateprojet3.png)
+
+## Une Dependance Starter Spring Boot
+**Une Dependance Starter Spring** est une qui est une dependance qui lui même contenant plusieurs dependances **retrocompatibles**.
+L'un des points forts de Spring Boot est qu'il trouve lui même les dependances compatibles entre elles.
+
+## Quelques Fichiers de Configurations 
+1. l'un des fichiers imports est **pom.xml** qui permet de:
+   * lister toutes les dependances d'une application **Spring Boot**
+   * ajouter d'autres dependances à notre application
+   * modifier le nom, la description
+   * configurer le build, les propriétés
+   * ...
+2. nous avons aussi le **application.properties** qu'on peut modifier son extension en **yaml** si nous le souhaitons bien, ce fichier permet également de faire des configuration aussi telles que:
+   * changement de port
+   * configuration de base de données
+   * ...
