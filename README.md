@@ -22,3 +22,6 @@ Avec Kahina Ioualitene, partez à la découverte du framework Spring et de son m
 
 ## Le conteneur IOC de Spring Boot (ApplicationContext)
 ![applicationContext](images/application_context_spring_boot.png)
+
+## Le Fonctionnement du Conteneur IOC de Spring Boot
+![fonctionnement IOC spring boot](images/fonctionnement_ioc_spring_boot.png)
