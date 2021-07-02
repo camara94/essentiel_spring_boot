@@ -19,3 +19,6 @@ Avec Kahina Ioualitene, partez à la découverte du framework Spring et de son m
 
 ## L'Inversion de Contrôle en Spring Boot avec les Beans
 ![beans](images/bean_spring_boot.png)
+
+## Le conteneur IOC de Spring Boot (ApplicationContext)
+![applicationContext](images/application_context_spring_boot.png)
