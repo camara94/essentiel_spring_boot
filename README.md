@@ -10,3 +10,6 @@ Avec Kahina Ioualitene, partez à la découverte du framework Spring et de son m
 
 ## Les Avantages d'utiliser Spring Boot
 ![avantage spring boot](images/avantage_spring_boot.png)
+
+## Les Inversion de Contrôle en Spring Boot
+![ioc en spring boot](images/ioc_spring_boot.png)
