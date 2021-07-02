@@ -48,3 +48,16 @@ Pour cela, nous utilisons le plus souvent les annotations suivantes:
 ## Comment créer une Application Spring Boot
 La  façon la plus simple est d'utilisée le site [Spring Initializr](https://start.spring.io)<br>
 ![Spring Initializr](images/comment_creer_app_spring_boot.png)
+
+## Comment proceder
+Le formulaire de spring initializr nous permet choisir:
+* le type de projet: **Maven**, **Gradle**
+* le language à utiliser: **Java**, **Kotlin**, **Groovy**
+* la version de spring boot à utiliser
+* le nom du package qu'on veut utiliser: (group)
+* le nom du projet: (artifact)
+* le packaging: **jar** ou **war**
+* les dependances qu'on souhaite ajouter à notre 
+Lorqu'on clique sur le bouton **générate** il va enrégistrer le projet dans  notre PC sous format zip<br/>
+![spring initializr](images/initializr1.png)
+![spring initializr](images/initializr1.png)
