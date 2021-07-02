@@ -13,3 +13,6 @@ Avec Kahina Ioualitene, partez à la découverte du framework Spring et de son m
 
 ## Les Inversion de Contrôle en Spring Boot
 ![ioc en spring boot](images/ioc_spring_boot.png)
+
+## Les Avantages de l'Inversion de Contrôle
+![avantage de ioc](images/avantage_inversion_de_controle.png)
