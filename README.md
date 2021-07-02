@@ -49,7 +49,7 @@ Pour cela, nous utilisons le plus souvent les annotations suivantes:
 La  façon la plus simple est d'utilisée le site [Spring Initializr](https://start.spring.io)<br>
 ![Spring Initializr](images/comment_creer_app_spring_boot.png)
 
-## Comment proceder
+## Comment Proceder avec Spring Initializr
 Le formulaire de spring initializr nous permet choisir:
 * le type de projet: **Maven**, **Gradle**
 * le language à utiliser: **Java**, **Kotlin**, **Groovy**
@@ -61,3 +61,14 @@ Le formulaire de spring initializr nous permet choisir:
 Lorqu'on clique sur le bouton **générate** il va enrégistrer le projet dans  notre PC sous format zip<br/>
 ![spring initializr](images/initializr1.png)
 ![spring initializr](images/initializr1.png)
+
+
+## Comment Proceder Avec Les IDE
+1. on peut utiliser IDE STS
+2. on peut aussi utiliser IDE Eclise avec le plugin STS
+3. on peut utiliser IDE Intelij ....
+   et  la  procedure est la même que celle qu'on a utilise precedemment avec **Spring Initializr**, quelques capture d'écran pourraient ce propos
+
+![create spring projet](images/idecreateprojet1.png)
+![create spring projet](images/idecreateprojet2.png)
+![create spring projet](images/idecreateprojet3.png)
