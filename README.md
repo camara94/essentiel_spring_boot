@@ -84,7 +84,12 @@ L'un des points forts de Spring Boot est qu'il trouve lui même les dependances 
    * modifier le nom, la description
    * configurer le build, les propriétés
    * ...
-2. nous avons aussi le **application.properties** qu'on peut modifier son extension en **yaml** si nous le souhaitons bien, ce fichier permet également de faire des configuration aussi telles que:
+2. nous avons aussi le fichier **application.properties** qu'on peut modifier son extension en **yaml** si nous le souhaitons bien, ce fichier permet également de faire des configuration aussi telles que:
    * changement de port
    * configuration de base de données
    * ...
+  
+## AutoConfiguration En Spring Boot
+![autoConfiguration](images/autoconfiguration_spring_boot1.png)
+![autoConfiguration](images/autoconfiguration_spring_boot2.png)
+![autoConfiguration](images/autoconfiguration_spring_boot3.png)
