@@ -4,3 +4,6 @@ Avec Kahina Ioualitene, partez à la découverte du framework Spring et de son m
 
 ## Le Noyau de Spring
 ![noyau Spring](images/noyau_spring.png)
+
+## Définition de Spring Boot
+![definition spring boot](images/definition_spring_boot.png)
