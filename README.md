@@ -7,3 +7,6 @@ Avec Kahina Ioualitene, partez à la découverte du framework Spring et de son m
 
 ## Définition de Spring Boot
 ![definition spring boot](images/definition_spring_boot.png)
+
+## Les Avantages d'utiliser Spring Boot
+![avantage spring boot](images/avantage_spring_boot.png)
