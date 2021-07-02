@@ -1,0 +1,21 @@
+<project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 https://maven.apache.org/xsd/maven-4.0.0.xsd">
+  <modelVersion>4.0.0</modelVersion>
+  <groupId>com.camaratek</groupId>
+  <artifactId>CraationObjectAvecIOCSpringBoot</artifactId>
+  <version>0.0.1-SNAPSHOT</version>
+  
+  <properties>
+  	<project.source.encoding>UTF-8</project.source.encoding>
+  	<project.version>5.3.8</project.version>
+  </properties>
+  
+  <dependencies>
+	<dependency>
+	    <groupId>org.springframework</groupId>
+	    <artifactId>spring-context</artifactId>
+	    <version>5.3.8</version>
+	</dependency>
+	  	
+  </dependencies>
+  
+</project>
