@@ -37,7 +37,7 @@ Pour cela, nous utilisons le plus souvent les annotations suivantes:
    ![configuration classe](images/configuration_classe_java.png)
 
 ## La Configuration avec les Annotation Spring Boot
-1. <code>@Component</code>: elle marque une classe java en tant que Bean pour les mecanismes d'analyse spring puissent l'ajouter au context de l"application. elle a plusieurs dérivées: **@Repository**, **@Service**, **@Controller**
+1. <code>@Component</code>: elle marque une classe java en tant que Bean pour les mecanismes d'analyse spring puis l'ajouter au context de l'application. elle a plusieurs dérivées: **@Repository**, **@Service**, **@Controller**
 2. <code>@Repository</code>: qui est utilisée sur les classes(Interfaces) java qui manipulent ou accèdent directement aux bases de données.
 3. <code>@Service</code>: elle marque une classe java qui effectue des traitements métiers.
 4. <code>@Controller</code>: est utilisée pour indiquer que la classe est un controller **Spring Boot**
