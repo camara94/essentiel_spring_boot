@@ -93,3 +93,7 @@ L'un des points forts de Spring Boot est qu'il trouve lui même les dependances 
 ![autoConfiguration](images/autoconfiguration_spring_boot1.png)
 ![autoConfiguration](images/autoconfiguration_spring_boot2.png)
 ![autoConfiguration](images/autoconfiguration_spring_boot3.png)
+
+## Connaître Les AutoConfigurations en Spring Boot
+![auto 1](images/condition_autoconfiguration_spring_boot1.png)
+![auto 1](images/condition_autoconfiguration_spring_boot2.png)
