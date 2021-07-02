@@ -25,3 +25,6 @@ Avec Kahina Ioualitene, partez à la découverte du framework Spring et de son m
 
 ## Le Fonctionnement du Conteneur IOC de Spring Boot
 ![fonctionnement IOC spring boot](images/fonctionnement_ioc_spring_boot.png)
+
+## La Configuration des Métadonnées en Spring Boot
+![configuration des métadonnées](images/configuration_metadonnees_spring_boot.png)
