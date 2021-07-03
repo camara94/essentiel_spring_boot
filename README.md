@@ -113,6 +113,9 @@ L'un des points forts de Spring Boot est qu'il trouve lui même les dependances 
 ## Contôller en Spring Boot
 ![mvc 3](images/mvc_spring_boot3.png)
 
-## CommandRunner
+## CommandLineRunner
 ![commande Runner](images/commandRunner.png)
 ![commande Runner](images/commandRunner2.png)
+
+## Conclusion
+![conclusion](images/conclusion.png)
