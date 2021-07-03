@@ -1,4 +1,4 @@
-package com.example.demo.autoconfiguration;
+package com.example.demo.config;
 
 import org.springframework.boot.autoconfigure.condition.ConditionalOnClass;
 import org.springframework.boot.autoconfigure.condition.ConditionalOnMissingBean;
@@ -6,19 +6,18 @@ import org.springframework.boot.context.properties.EnableConfigurationProperties
 import org.springframework.context.annotation.Bean;
 import org.springframework.context.annotation.Configuration;
 
-import com.example.demo.service.LogProperties;
-import com.example.demo.service.LogService;
-import com.example.demo.service.LogServiceImp;
+import com.example.demo.LogProperties;
+import com.example.demo.Service;
+import com.example.demo.ServiceImp;
 
 @Configuration
-@ConditionalOnClass(LogService.class)
-@EnableConfigurationProperties( LogProperties.class )
-public class LoggerAutoConfiguration {
+@ConditionalOnClass(Service.class)
+@EnableConfigurationProperties(LogProperties.class)
+public class LogConfiguration {
 	
 	@Bean
 	@ConditionalOnMissingBean
-	public LogService logService() {
-		return new LogServiceImp();
+	public Service createService() {
+		return new ServiceImp();
 	}
-
 }
