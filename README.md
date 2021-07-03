@@ -103,3 +103,12 @@ L'un des points forts de Spring Boot est qu'il trouve lui même les dependances 
 
 ## Quelques Starter Spring Boot
 ![quelques starter](images/starter_spring_boot2.png)
+
+## Le Modele MVC En Spring Boot
+![mvc 1](images/mvc_spring_boot1.png)
+
+## Spring MVC
+![mvc 2](images/mvc_spring_boot2.png)
+
+## Contôller en Spring Boot
+![mvc 3](images/mvc_spring_boot3.png)
